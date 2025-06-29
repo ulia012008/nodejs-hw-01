@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "16efc37e-06bf-4625-8405-7e0dfa448226",
+    "name": "Dr. Karl Grady",
+    "phone": "(550) 247-7618 x507",
+    "email": "Lavina.Robel@gmail.com",
+    "job": "Regional Integration Planner"
+  },
+  {
+    "id": "e31556f1-cb5a-4bfe-9670-5fb456efcf29",
+    "name": "Mr. Morris Heathcote",
+    "phone": "847-815-1240 x48882",
+    "email": "Harold15@hotmail.com",
+    "job": "Regional Branding Facilitator"
+  },
+  {
+    "id": "219d4d14-b496-4117-941e-e846d79c9951",
+    "name": "Rogelio Gerhold",
+    "phone": "1-958-507-7671 x105",
+    "email": "Scarlett18@yahoo.com",
+    "job": "International Operations Producer"
+  }
+]

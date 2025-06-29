@@ -1,5 +1,5 @@
 // src/index.js
 
-const message = 'Hello world';
+const message = 'Сontacts List Аpplication';
 
 console.log(message);
